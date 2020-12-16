@@ -189,11 +189,13 @@
         margin-top: 7px;
     }
     
-    .card-body a {
+    .card-body a,
+    .a a {
         color: #ffffff;
     }
     
-    .card-body a:hover {
+    .card-body a:hover,
+    .a a:hover {
         color: #ffffff;
         text-decoration: none;
     }
