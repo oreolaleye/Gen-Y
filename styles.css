@@ -680,6 +680,17 @@
         header {
             padding: 50px 100px 50px 50px;
         }
+        .ai {
+            margin: auto 50px;
+        }
+        .ai h4 {
+            font-size: 30px;
+            font-weight: bold;
+        }
+        .ai p {
+            font-size: 19px;
+            font-weight: bold;
+        }
         .m-ml-0 {
             margin-left: 0;
         }
