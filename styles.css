@@ -691,6 +691,9 @@
             font-size: 19px;
             font-weight: bold;
         }
+        .works-1 {
+            background-position: center;
+        }
         .m-ml-0 {
             margin-left: 0;
         }
